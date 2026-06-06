@@ -9,8 +9,8 @@
 ### Season Analysis
 ![Season Analysis](Dashboard%20Screenshots/Season_Analysis.png)
 
-### Team Analysis (CSK)
-![Team Analysis CSK](Dashboard%20Screenshots/Team_Analysis_CSK.png)
+### Team Analysis (KKR)
+![Team Analysis CSK](Dashboard%20Screenshots/Team_Analysis_KKR.png)
 
 ### Team Analysis (RCB)
 ![Team Analysis RCB](Dashboard%20Screenshots/Team_Analysis_RCB.png)
