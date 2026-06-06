@@ -19,4 +19,4 @@
 ![Cap Analysis 2016](Dashboard%20Screenshots/Orange_Purple_Cap_2016.png)
 
 ### Orange & Purple Cap Analysis (2026)
-![Cap Analysis 2024](Dashboard%20Screenshots/Orange_Purple_Cap_2016.png)
+![Cap Analysis 2024](Dashboard%20Screenshots/Orange_Purple_Cap_2026.png)
